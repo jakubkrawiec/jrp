@@ -1,6 +1,6 @@
 # JRP Project: Discrete Choice Experiment
 
-This repository contains the files and scripts necessary to run a **Survey Experiment Application** using R and the `shiny` package. The project is set up for designing, implementing, and analyzing choice experiments.
+This repository contains the files and scripts necessary to run a **DCE Application** using R and the `shiny` package. The project is set up for designing, implementing, and analyzing choice experiments.
 
 ---
 
